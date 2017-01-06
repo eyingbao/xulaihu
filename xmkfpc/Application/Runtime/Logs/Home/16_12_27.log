@@ -1,0 +1,348 @@
+[ 2016-12-27T18:14:01+08:00 ] 127.0.0.1 /Home/Manager/updateMcc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ads_mcc` [ RunTime:0.0050s ]
+SQL: SELECT `customerId` FROM `ads_mcc` WHERE ( canManageClients = 1 )  [ RunTime:0.0020s ]
+SQL: SELECT ac2.name ,ac1.name AS now_name ,ac2.icon  FROM ads_column AS ac1 INNER JOIN ads_column AS ac2 ON ac1.pid = ac2.id WHERE ac1.controller = 'Home/Manager/updateMcc' [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ads_mcc` WHERE ( status = 1 )  [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: mcc G:\wamp\www\kfpc\Application\Common\Controller\CommonController.class.php 第 170 行.
+SQL: SELECT `name` FROM `ads_mcc` WHERE ( customerId = '376-046-0982' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `ads_mcc` WHERE ( status = 1 AND canManageClients = 1 ) ORDER BY listorder DESC  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ads_column` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `ads_column` WHERE ( status = 1 ) ORDER BY listorder DESC  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined index: date G:\wamp\www\kfpc\Application\Common\Controller\CommonController.class.php 第 234 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant mcc - assumed 'mcc' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\c03c56fae0ae5c44c1110bcef1c9e9ac.php 第 1361 行.
+NOTIC: [8] Use of undefined constant nickname - assumed 'nickname' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\c03c56fae0ae5c44c1110bcef1c9e9ac.php 第 1361 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\c03c56fae0ae5c44c1110bcef1c9e9ac.php 第 1668 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\c03c56fae0ae5c44c1110bcef1c9e9ac.php 第 1599 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\c03c56fae0ae5c44c1110bcef1c9e9ac.php 第 1628 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\c03c56fae0ae5c44c1110bcef1c9e9ac.php 第 1590 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\c03c56fae0ae5c44c1110bcef1c9e9ac.php 第 1638 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\c03c56fae0ae5c44c1110bcef1c9e9ac.php 第 1581 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\c03c56fae0ae5c44c1110bcef1c9e9ac.php 第 1571 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\c03c56fae0ae5c44c1110bcef1c9e9ac.php 第 1648 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\c03c56fae0ae5c44c1110bcef1c9e9ac.php 第 1658 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\c03c56fae0ae5c44c1110bcef1c9e9ac.php 第 1553 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\c03c56fae0ae5c44c1110bcef1c9e9ac.php 第 1544 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\c03c56fae0ae5c44c1110bcef1c9e9ac.php 第 1618 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\c03c56fae0ae5c44c1110bcef1c9e9ac.php 第 1562 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\c03c56fae0ae5c44c1110bcef1c9e9ac.php 第 1608 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.075005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.075005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-27T18:14:02+08:00 ] 127.0.0.1 /Public/plugins/bootstrap-tagsinput/bootstrap-tagsinput.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Public
+
+[ 2016-12-27T18:14:05+08:00 ] 127.0.0.1 /Home/Mcc/alertedList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `ads_mcc` [ RunTime:0.0050s ]
+SQL: SELECT `customerId` FROM `ads_mcc` WHERE ( canManageClients = 1 )  [ RunTime:0.0020s ]
+SQL: SELECT ac2.name ,ac1.name AS now_name ,ac2.icon  FROM ads_column AS ac1 INNER JOIN ads_column AS ac2 ON ac1.pid = ac2.id WHERE ac1.controller = 'Home/Mcc/alertedList' [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ads_mcc` WHERE ( status = 1 )  [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: mcc G:\wamp\www\kfpc\Application\Common\Controller\CommonController.class.php 第 170 行.
+SQL: SELECT `name` FROM `ads_mcc` WHERE ( customerId = '376-046-0982' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ads_mcc` WHERE ( status = 1 AND canManageClients = 1 ) ORDER BY listorder DESC  [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ads_column` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `ads_column` WHERE ( status = 1 ) ORDER BY listorder DESC  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined index: date G:\wamp\www\kfpc\Application\Common\Controller\CommonController.class.php 第 234 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant mcc - assumed 'mcc' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1361 行.
+NOTIC: [8] Use of undefined constant nickname - assumed 'nickname' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1361 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1512 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1442 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1472 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1432 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1482 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1579 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1569 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1646 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1656 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1551 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1542 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1616 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1560 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1606 行.
+NOTIC: [8] Undefined index: nickname G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1756 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1757 行.
+NOTIC: [8] Undefined variable: accountTree G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1788 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\aa747ce6c468db40da6531302f197c88.php 第 1789 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.081004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.081004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-27T18:14:05+08:00 ] 127.0.0.1 /Public/plugins/bootstrap-tagsinput/bootstrap-tagsinput.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Public
+
+[ 2016-12-27T18:14:12+08:00 ] 127.0.0.1 /Home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ads_mcc` [ RunTime:0.0050s ]
+SQL: SELECT `customerId` FROM `ads_mcc` WHERE ( canManageClients = 1 )  [ RunTime:0.0010s ]
+
+[ 2016-12-27T18:14:13+08:00 ] 127.0.0.1 /AdGroup/index?date=20161220-20161227
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `ads_mcc` [ RunTime:0.0040s ]
+SQL: SELECT `customerId` FROM `ads_mcc` WHERE ( canManageClients = 1 )  [ RunTime:0.0020s ]
+SQL: SELECT ac2.name ,ac1.name AS now_name ,ac2.icon  FROM ads_column AS ac1 INNER JOIN ads_column AS ac2 ON ac1.pid = ac2.id WHERE ac1.controller = 'Home/AdGroup/index' [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ads_mcc` WHERE ( status = 1 )  [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: mcc G:\wamp\www\kfpc\Application\Common\Controller\CommonController.class.php 第 170 行.
+SQL: SELECT `name` FROM `ads_mcc` WHERE ( customerId = '376-046-0982' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ads_mcc` WHERE ( status = 1 AND canManageClients = 1 ) ORDER BY listorder DESC  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ads_column` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `ads_column` WHERE ( status = 1 ) ORDER BY listorder DESC  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+NOTIC: [8] Undefined variable: arr G:\wamp\www\kfpc\Application\Common\Common\function.php 第 268 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant mcc - assumed 'mcc' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1361 行.
+NOTIC: [8] Use of undefined constant nickname - assumed 'nickname' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1361 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1666 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1597 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1626 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1588 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1636 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1579 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1569 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1646 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1656 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1551 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1386 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1462 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1404 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1452 行.
+NOTIC: [8] Undefined index: nickname G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1752 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1753 行.
+NOTIC: [8] Undefined variable: accountTree G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1785 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+NOTIC: [8] Undefined index: id G:\wamp\www\kfpc\Application\Runtime\Cache\Home\e161a7e909c42927fee14620eeeea745.php 第 1786 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.084005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.084005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-27T18:14:13+08:00 ] 127.0.0.1 /Public/plugins/bootstrap-tagsinput/bootstrap-tagsinput.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Public
+

@@ -1,0 +1,1867 @@
+[ 2016-12-29T09:58:43+08:00 ] 127.0.0.1 /Ads/Suggest/costErr?cid=1448292719
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: d1 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 42 行.
+NOTIC: [8] Undefined index: d2 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 43 行.
+SQL: SELECT account_cost_err  FROM ads_account_rating_data WHERE account_id = 1448292719 [ RunTime:0.0290s ]
+NOTIC: [8] Undefined offset: 0 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2016-12-29T09:58:43+08:00 ] 127.0.0.1 /Ads/Suggest/campaignCtr?cid=1448292719
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [8] Undefined index: d1 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 42 行.
+NOTIC: [8] Undefined index: d2 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 43 行.
+SQL: SELECT campaign_ctr  FROM ads_account_rating_data WHERE account_id = 1448292719 [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 328 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-12-29T09:58:43+08:00 ] 127.0.0.1 /Ads/Suggest/kwPoint?cid=1448292719
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+NOTIC: [8] Undefined index: d1 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 42 行.
+NOTIC: [8] Undefined index: d2 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 43 行.
+SQL: SELECT kw_point  FROM ads_account_rating_data WHERE account_id = 1448292719 [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 384 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T09:58:43+08:00 ] 127.0.0.1 /Ads/Suggest/convers?cid=1448292719
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: d1 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 42 行.
+NOTIC: [8] Undefined index: d2 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 43 行.
+SQL: SELECT convers  FROM ads_account_rating_data WHERE account_id = 1448292719 [ RunTime:0.0320s ]
+NOTIC: [8] Undefined offset: 0 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 234 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T09:58:43+08:00 ] 127.0.0.1 /Ads/Suggest/kwCount?cid=1448292719
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.002000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] Undefined index: d1 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 42 行.
+NOTIC: [8] Undefined index: d2 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 43 行.
+SQL: SELECT kw_search_all  FROM ads_account_rating_data WHERE account_id = 1448292719 [ RunTime:0.0330s ]
+NOTIC: [8] Undefined offset: 0 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 475 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T09:58:43+08:00 ] 127.0.0.1 /Ads/Suggest/BounceRate?cid=1448292719
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: d1 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 42 行.
+NOTIC: [8] Undefined index: d2 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `ads_ga` [ RunTime:0.0320s ]
+SQL: SELECT * FROM `ads_ga` WHERE ( account = 1448292719 )  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 605 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-29T09:58:43+08:00 ] 127.0.0.1 /Ads/Suggest/Dwelltime?cid=1448292719
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: d1 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 42 行.
+NOTIC: [8] Undefined index: d2 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `ads_ga` [ RunTime:0.0430s ]
+SQL: SELECT * FROM `ads_ga` WHERE ( account = 1448292719 )  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 673 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-29T09:58:43+08:00 ] 127.0.0.1 /Ads/Suggest/crmServerCount?cid=1448292719
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: d1 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 42 行.
+NOTIC: [8] Undefined index: d2 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `n_accountinfo` [ RunTime:0.0380s ]
+SQL: SELECT `customer_Id` FROM `n_accountinfo` WHERE `account_Id` = '144-829-2719' LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-29T09:58:43+08:00 ] 127.0.0.1 /Ads/Suggest/Loadtime?cid=1448292719
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: d1 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 42 行.
+NOTIC: [8] Undefined index: d2 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `ads_ga` [ RunTime:0.0370s ]
+SQL: SELECT * FROM `ads_ga` WHERE ( account = 1448292719 )  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 640 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T09:58:43+08:00 ] 127.0.0.1 /Ads/Suggest/ref?cid=1448292719
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined index: d1 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 42 行.
+NOTIC: [8] Undefined index: d2 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 43 行.
+NOTIC: [8] Undefined variable: cid G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 547 行.
+NOTIC: [8] Undefined variable: d1 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 547 行.
+NOTIC: [8] Undefined variable: d2 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 547 行.
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T09:58:43+08:00 ] 127.0.0.1 /Ads/Suggest/adCount?cid=1448292719
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: d1 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 42 行.
+NOTIC: [8] Undefined index: d2 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 43 行.
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-29T09:58:44+08:00 ] 127.0.0.1 /Ads/Suggest/delivery?cid=1448292719
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010001s ]
+NOTIC: [8] Undefined index: d1 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 42 行.
+NOTIC: [8] Undefined index: d2 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 43 行.
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-29T09:58:44+08:00 ] 127.0.0.1 /Ads/Suggest/budgetErr?cid=1448292719
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined index: d1 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 42 行.
+NOTIC: [8] Undefined index: d2 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 43 行.
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+NOTIC: [2] Division by zero G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 186 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2016-12-29T09:58:44+08:00 ] 127.0.0.1 /Ads/Suggest/renewals?cid=1448292719
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [8] Undefined index: d1 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 42 行.
+NOTIC: [8] Undefined index: d2 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `ads_budget` [ RunTime:0.0630s ]
+SQL: SELECT * FROM `ads_budget` WHERE ( cid = '1448292719' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+NOTIC: [2] Division by zero G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 143 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2016-12-29T10:00:21+08:00 ] 127.0.0.1 /Ads/Suggest/costErr?cid=1448292719
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: d1 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 42 行.
+NOTIC: [8] Undefined index: d2 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 43 行.
+SQL: SELECT account_cost_err  FROM ads_account_rating_data WHERE account_id = 1448292719 [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T10:00:22+08:00 ] 127.0.0.1 /Ads/Suggest/campaignCtr?cid=1448292719
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] Undefined index: d1 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 42 行.
+NOTIC: [8] Undefined index: d2 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 43 行.
+SQL: SELECT campaign_ctr  FROM ads_account_rating_data WHERE account_id = 1448292719 [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 328 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-12-29T10:00:22+08:00 ] 127.0.0.1 /Ads/Suggest/kwPoint?cid=1448292719
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: d1 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 42 行.
+NOTIC: [8] Undefined index: d2 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 43 行.
+SQL: SELECT kw_point  FROM ads_account_rating_data WHERE account_id = 1448292719 [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 384 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-29T10:00:22+08:00 ] 127.0.0.1 /Ads/Suggest/Dwelltime?cid=1448292719
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined index: d1 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 42 行.
+NOTIC: [8] Undefined index: d2 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `ads_ga` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `ads_ga` WHERE ( account = 1448292719 )  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 673 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T10:00:22+08:00 ] 127.0.0.1 /Ads/Suggest/kwCount?cid=1448292719
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.002000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: d1 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 42 行.
+NOTIC: [8] Undefined index: d2 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 43 行.
+SQL: SELECT kw_search_all  FROM ads_account_rating_data WHERE account_id = 1448292719 [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 475 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T10:00:22+08:00 ] 127.0.0.1 /Ads/Suggest/Loadtime?cid=1448292719
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: d1 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 42 行.
+NOTIC: [8] Undefined index: d2 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `ads_ga` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `ads_ga` WHERE ( account = 1448292719 )  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 640 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T10:00:22+08:00 ] 127.0.0.1 /Ads/Suggest/BounceRate?cid=1448292719
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [8] Undefined index: d1 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 42 行.
+NOTIC: [8] Undefined index: d2 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `ads_ga` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `ads_ga` WHERE ( account = 1448292719 )  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 605 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T10:00:22+08:00 ] 127.0.0.1 /Ads/Suggest/crmServerCount?cid=1448292719
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined index: d1 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 42 行.
+NOTIC: [8] Undefined index: d2 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `n_accountinfo` [ RunTime:0.0040s ]
+SQL: SELECT `customer_Id` FROM `n_accountinfo` WHERE `account_Id` = '144-829-2719' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T10:00:22+08:00 ] 127.0.0.1 /Ads/Suggest/convers?cid=1448292719
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009001s ]
+NOTIC: [8] Undefined index: d1 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 42 行.
+NOTIC: [8] Undefined index: d2 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 43 行.
+SQL: SELECT convers  FROM ads_account_rating_data WHERE account_id = 1448292719 [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 234 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-29T10:00:22+08:00 ] 127.0.0.1 /Ads/Suggest/ref?cid=1448292719
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined index: d1 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 42 行.
+NOTIC: [8] Undefined index: d2 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 43 行.
+NOTIC: [8] Undefined variable: cid G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 547 行.
+NOTIC: [8] Undefined variable: d1 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 547 行.
+NOTIC: [8] Undefined variable: d2 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 547 行.
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-29T10:00:22+08:00 ] 127.0.0.1 /Ads/Suggest/adCount?cid=1448292719
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: d1 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 42 行.
+NOTIC: [8] Undefined index: d2 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 43 行.
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-29T10:00:22+08:00 ] 127.0.0.1 /Ads/Suggest/delivery?cid=1448292719
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.002000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: d1 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 42 行.
+NOTIC: [8] Undefined index: d2 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 43 行.
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-29T10:00:22+08:00 ] 127.0.0.1 /Ads/Suggest/renewals?cid=1448292719
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: d1 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 42 行.
+NOTIC: [8] Undefined index: d2 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 43 行.
+SQL: SHOW COLUMNS FROM `ads_budget` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `ads_budget` WHERE ( cid = '1448292719' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+NOTIC: [2] Division by zero G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 143 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T10:00:22+08:00 ] 127.0.0.1 /Ads/Suggest/budgetErr?cid=1448292719
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007001s ]
+NOTIC: [8] Undefined index: d1 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 42 行.
+NOTIC: [8] Undefined index: d2 G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 43 行.
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+NOTIC: [2] Division by zero G:\wamp\www\kfpc\Application\Ads\Controller\SuggestController.class.php 第 186 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T10:05:05+08:00 ] 127.0.0.1 /Ads/Index/customer?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `n_accountinfo` [ RunTime:0.0040s ]
+SQL: SELECT `customer_Id` FROM `n_accountinfo` WHERE `account_Id` = '144-829-2719' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `n_customerinformation` [ RunTime:0.0260s ]
+SQL: SELECT * FROM `n_customerinformation` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T10:05:05+08:00 ] 127.0.0.1 /Ads/Index/customerService?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `n_accountinfo` [ RunTime:0.0040s ]
+SQL: SELECT `salesOrder_Id` FROM `n_accountinfo` WHERE `account_Id` = '144-829-2719' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `n_salesorder` [ RunTime:0.0380s ]
+SQL: SELECT `responsibleForCustomerService` FROM `n_salesorder` WHERE `id` = null LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `n_userprofile` [ RunTime:0.0270s ]
+SQL: SELECT * FROM `n_userprofile` WHERE `id` = null LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T10:05:05+08:00 ] 127.0.0.1 /Ads/Index/top?cid=1448292719&d1=2016-10-01&d2=2016-11-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T10:05:05+08:00 ] 127.0.0.1 /Ads/Index/geo?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-29T10:05:05+08:00 ] 127.0.0.1 /Ads/Index/keywords?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-29T10:05:06+08:00 ] 127.0.0.1 /Ads/Index/daily?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T10:05:06+08:00 ] 127.0.0.1 /Ads/Index/blance?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ads_budget` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `ads_budget` WHERE ( cid = '1448292719' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+NOTIC: [2] Division by zero G:\wamp\www\kfpc\Application\Ads\Controller\IndexController.class.php 第 531 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-29T10:05:06+08:00 ] 127.0.0.1 /Ads/Index/campaign?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-29T10:05:06+08:00 ] 127.0.0.1 /Ads/Index/top?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-29T19:27:44+08:00 ] 127.0.0.1 /Ads/Index/customerService?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `n_accountinfo` [ RunTime:0.0050s ]
+ERR: SQLSTATE[42S22]: Column not found: 1054 Champ 'salesOrder_Id' inconnu dans field list
+
+[ 2016-12-29T19:27:44+08:00 ] 127.0.0.1 /Ads/Index/customer?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `n_accountinfo` [ RunTime:0.0040s ]
+SQL: SELECT `customer_Id` FROM `n_accountinfo` LIMIT 1   [ RunTime:0.0000s ]
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'yybadwords.n_customerinformation' n'existe pas
+
+[ 2016-12-29T19:27:44+08:00 ] 127.0.0.1 /Ads/Index/daily?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:27:44+08:00 ] 127.0.0.1 /Ads/Index/geo?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:27:44+08:00 ] 127.0.0.1 /Ads/Index/keywords?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:27:44+08:00 ] 127.0.0.1 /Ads/Index/top?cid=1448292719&d1=2016-10-01&d2=2016-11-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:27:44+08:00 ] 127.0.0.1 /Ads/Index/top?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:27:44+08:00 ] 127.0.0.1 /Ads/Index/blance?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ads_budget` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `ads_budget` WHERE ( cid = '1448292719' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+NOTIC: [2] Division by zero G:\wamp\www\kfpc\Application\Ads\Controller\IndexController.class.php 第 531 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:27:44+08:00 ] 127.0.0.1 /Ads/Index/campaign?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:30:13+08:00 ] 127.0.0.1 /Ads/Index/customer?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: orderInfo G:\wamp\www\kfpc\Application\Ads\Controller\IndexController.class.php 第 504 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:30:13+08:00 ] 127.0.0.1 /Ads/Index/customerService?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:30:13+08:00 ] 127.0.0.1 /Ads/Index/top?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:30:13+08:00 ] 127.0.0.1 /Ads/Index/geo?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:30:13+08:00 ] 127.0.0.1 /Ads/Index/daily?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-29T19:30:13+08:00 ] 127.0.0.1 /Ads/Index/top?cid=1448292719&d1=2016-10-01&d2=2016-11-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-29T19:30:13+08:00 ] 127.0.0.1 /Ads/Index/blance?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ads_budget` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `ads_budget` WHERE ( cid = '1448292719' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+NOTIC: [2] Division by zero G:\wamp\www\kfpc\Application\Ads\Controller\IndexController.class.php 第 542 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:30:13+08:00 ] 127.0.0.1 /Ads/Index/campaign?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-12-29T19:30:13+08:00 ] 127.0.0.1 /Ads/Index/keywords?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:30:15+08:00 ] 127.0.0.1 /Ads/Index/customerService?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:30:15+08:00 ] 127.0.0.1 /Ads/Index/customer?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: orderInfo G:\wamp\www\kfpc\Application\Ads\Controller\IndexController.class.php 第 504 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2016-12-29T19:30:15+08:00 ] 127.0.0.1 /Ads/Index/top?cid=1448292719&d1=2016-10-01&d2=2016-11-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.004001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-12-29T19:30:15+08:00 ] 127.0.0.1 /Ads/Index/top?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-12-29T19:30:15+08:00 ] 127.0.0.1 /Ads/Index/campaign?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:30:15+08:00 ] 127.0.0.1 /Ads/Index/daily?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:30:15+08:00 ] 127.0.0.1 /Ads/Index/blance?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ads_budget` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `ads_budget` WHERE ( cid = '1448292719' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+NOTIC: [2] Division by zero G:\wamp\www\kfpc\Application\Ads\Controller\IndexController.class.php 第 542 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-12-29T19:30:15+08:00 ] 127.0.0.1 /Ads/Index/geo?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-29T19:30:15+08:00 ] 127.0.0.1 /Ads/Index/keywords?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:30:31+08:00 ] 127.0.0.1 /Ads/Index/customerService?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:30:31+08:00 ] 127.0.0.1 /Ads/Index/customer?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2016-12-29T19:30:32+08:00 ] 127.0.0.1 /Ads/Index/top?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-29T19:30:32+08:00 ] 127.0.0.1 /Ads/Index/top?cid=1448292719&d1=2016-10-01&d2=2016-11-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:30:32+08:00 ] 127.0.0.1 /Ads/Index/geo?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:30:32+08:00 ] 127.0.0.1 /Ads/Index/daily?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-29T19:30:32+08:00 ] 127.0.0.1 /Ads/Index/keywords?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.002000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:30:32+08:00 ] 127.0.0.1 /Ads/Index/blance?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+SQL: SHOW COLUMNS FROM `ads_budget` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `ads_budget` WHERE ( cid = '1448292719' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+NOTIC: [2] Division by zero G:\wamp\www\kfpc\Application\Ads\Controller\IndexController.class.php 第 542 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-12-29T19:30:32+08:00 ] 127.0.0.1 /Ads/Index/campaign?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:34:52+08:00 ] 127.0.0.1 /Ads/Index/customer?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'yybadwords.ads_n_accountinfo' n'existe pas
+
+[ 2016-12-29T19:34:52+08:00 ] 127.0.0.1 /Ads/Index/customerService?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'yybadwords.ads_n_accountinfo' n'existe pas
+
+[ 2016-12-29T19:34:52+08:00 ] 127.0.0.1 /Ads/Index/geo?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:34:52+08:00 ] 127.0.0.1 /Ads/Index/top?cid=1448292719&d1=2016-10-01&d2=2016-11-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:34:52+08:00 ] 127.0.0.1 /Ads/Index/top?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:34:52+08:00 ] 127.0.0.1 /Ads/Index/daily?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:34:52+08:00 ] 127.0.0.1 /Ads/Index/keywords?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-12-29T19:34:52+08:00 ] 127.0.0.1 /Ads/Index/campaign?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:34:52+08:00 ] 127.0.0.1 /Ads/Index/blance?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `ads_budget` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `ads_budget` WHERE ( cid = '1448292719' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+NOTIC: [2] Division by zero G:\wamp\www\kfpc\Application\Ads\Controller\IndexController.class.php 第 547 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:34:54+08:00 ] 127.0.0.1 /Ads/Index/customerService?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'yybadwords.ads_n_accountinfo' n'existe pas
+
+[ 2016-12-29T19:34:54+08:00 ] 127.0.0.1 /Ads/Index/customer?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'yybadwords.ads_n_accountinfo' n'existe pas
+
+[ 2016-12-29T19:34:54+08:00 ] 127.0.0.1 /Ads/Index/top?cid=1448292719&d1=2016-10-01&d2=2016-11-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:34:54+08:00 ] 127.0.0.1 /Ads/Index/top?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:34:54+08:00 ] 127.0.0.1 /Ads/Index/geo?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:34:54+08:00 ] 127.0.0.1 /Ads/Index/blance?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `ads_budget` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ads_budget` WHERE ( cid = '1448292719' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+NOTIC: [2] Division by zero G:\wamp\www\kfpc\Application\Ads\Controller\IndexController.class.php 第 547 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:34:54+08:00 ] 127.0.0.1 /Ads/Index/keywords?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:34:54+08:00 ] 127.0.0.1 /Ads/Index/daily?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:34:54+08:00 ] 127.0.0.1 /Ads/Index/campaign?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:35:18+08:00 ] 127.0.0.1 /Ads/Index/customer?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'yybadwords.ads_n_accountinfo' n'existe pas
+
+[ 2016-12-29T19:35:18+08:00 ] 127.0.0.1 /Ads/Index/customerService?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'yybadwords.ads_n_accountinfo' n'existe pas
+
+[ 2016-12-29T19:35:18+08:00 ] 127.0.0.1 /Ads/Index/top?cid=1448292719&d1=2016-10-01&d2=2016-11-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:35:18+08:00 ] 127.0.0.1 /Ads/Index/top?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.004000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:35:18+08:00 ] 127.0.0.1 /Ads/Index/geo?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:35:18+08:00 ] 127.0.0.1 /Ads/Index/daily?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-12-29T19:35:18+08:00 ] 127.0.0.1 /Ads/Index/blance?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `ads_budget` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `ads_budget` WHERE ( cid = '1448292719' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+NOTIC: [2] Division by zero G:\wamp\www\kfpc\Application\Ads\Controller\IndexController.class.php 第 547 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:35:18+08:00 ] 127.0.0.1 /Ads/Index/keywords?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:35:18+08:00 ] 127.0.0.1 /Ads/Index/campaign?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:35:41+08:00 ] 127.0.0.1 /Ads/Index/customer?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `n_accountinfo` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `n_accountinfo` WHERE ( customer_Id = '144-829-2719' ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:35:41+08:00 ] 127.0.0.1 /Ads/Index/customerService?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `n_accountinfo` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `n_accountinfo` WHERE ( mcc = '144-829-2719' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ads_manager` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined variable: n_accountinfop G:\wamp\www\kfpc\Application\Ads\Controller\IndexController.class.php 第 477 行.
+SQL: SELECT * FROM `ads_manager` WHERE ( mcc = '' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:35:42+08:00 ] 127.0.0.1 /Ads/Index/top?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:35:42+08:00 ] 127.0.0.1 /Ads/Index/daily?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-29T19:35:42+08:00 ] 127.0.0.1 /Ads/Index/geo?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-12-29T19:35:42+08:00 ] 127.0.0.1 /Ads/Index/top?cid=1448292719&d1=2016-10-01&d2=2016-11-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:35:42+08:00 ] 127.0.0.1 /Ads/Index/keywords?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:35:42+08:00 ] 127.0.0.1 /Ads/Index/blance?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ads_budget` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ads_budget` WHERE ( cid = '1448292719' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+NOTIC: [2] Division by zero G:\wamp\www\kfpc\Application\Ads\Controller\IndexController.class.php 第 547 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:35:42+08:00 ] 127.0.0.1 /Ads/Index/campaign?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:35:46+08:00 ] 127.0.0.1 /Ads/Index/customer?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `n_accountinfo` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `n_accountinfo` WHERE ( customer_Id = '144-829-2719' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:35:46+08:00 ] 127.0.0.1 /Ads/Index/customerService?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `n_accountinfo` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `n_accountinfo` WHERE ( mcc = '144-829-2719' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ads_manager` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined variable: n_accountinfop G:\wamp\www\kfpc\Application\Ads\Controller\IndexController.class.php 第 477 行.
+SQL: SELECT * FROM `ads_manager` WHERE ( mcc = '' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:35:46+08:00 ] 127.0.0.1 /Ads/Index/top?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+
+[ 2016-12-29T19:35:46+08:00 ] 127.0.0.1 /Ads/Index/top?cid=1448292719&d1=2016-10-01&d2=2016-11-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:35:46+08:00 ] 127.0.0.1 /Ads/Index/geo?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:35:46+08:00 ] 127.0.0.1 /Ads/Index/keywords?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:35:46+08:00 ] 127.0.0.1 /Ads/Index/campaign?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:35:46+08:00 ] 127.0.0.1 /Ads/Index/blance?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ads_budget` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `ads_budget` WHERE ( cid = '1448292719' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+NOTIC: [2] Division by zero G:\wamp\www\kfpc\Application\Ads\Controller\IndexController.class.php 第 547 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:35:55+08:00 ] 127.0.0.1 /Ads/Index/customerService?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `n_accountinfo` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `n_accountinfo` WHERE ( mcc = '144-829-2719' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ads_manager` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `ads_manager` WHERE ( mcc = '' ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-29T19:35:55+08:00 ] 127.0.0.1 /Ads/Index/customer?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `n_accountinfo` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `n_accountinfo` WHERE ( customer_Id = '144-829-2719' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:35:55+08:00 ] 127.0.0.1 /Ads/Index/top?cid=1448292719&d1=2016-10-01&d2=2016-11-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:35:55+08:00 ] 127.0.0.1 /Ads/Index/top?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.008001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:35:55+08:00 ] 127.0.0.1 /Ads/Index/geo?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:35:55+08:00 ] 127.0.0.1 /Ads/Index/daily?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007001s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-29T19:35:55+08:00 ] 127.0.0.1 /Ads/Index/blance?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.003000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `ads_budget` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `ads_budget` WHERE ( cid = '1448292719' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+NOTIC: [2] Division by zero G:\wamp\www\kfpc\Application\Ads\Controller\IndexController.class.php 第 547 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-12-29T19:35:55+08:00 ] 127.0.0.1 /Ads/Index/campaign?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007001s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:35:55+08:00 ] 127.0.0.1 /Ads/Index/keywords?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:35:57+08:00 ] 127.0.0.1 /Ads/Index/customer?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `n_accountinfo` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `n_accountinfo` WHERE ( customer_Id = '144-829-2719' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-29T19:35:57+08:00 ] 127.0.0.1 /Ads/Index/customerService?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `n_accountinfo` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `n_accountinfo` WHERE ( mcc = '144-829-2719' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ads_manager` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `ads_manager` WHERE ( mcc = '' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-29T19:35:57+08:00 ] 127.0.0.1 /Ads/Index/top?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:35:57+08:00 ] 127.0.0.1 /Ads/Index/top?cid=1448292719&d1=2016-10-01&d2=2016-11-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007001s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-12-29T19:35:57+08:00 ] 127.0.0.1 /Ads/Index/daily?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:35:57+08:00 ] 127.0.0.1 /Ads/Index/blance?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ads_budget` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `ads_budget` WHERE ( cid = '1448292719' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+NOTIC: [2] Division by zero G:\wamp\www\kfpc\Application\Ads\Controller\IndexController.class.php 第 547 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:35:57+08:00 ] 127.0.0.1 /Ads/Index/geo?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:35:57+08:00 ] 127.0.0.1 /Ads/Index/keywords?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:35:57+08:00 ] 127.0.0.1 /Ads/Index/campaign?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:36:45+08:00 ] 127.0.0.1 /Ads/Index/customer?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `n_accountinfo` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `n_accountinfo` WHERE ( customer_Id = '144-829-2719' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:36:45+08:00 ] 127.0.0.1 /Ads/Index/customerService?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `n_accountinfo` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `n_accountinfo` WHERE ( customer_Id = '144-829-2719' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `ads_manager` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `ads_manager` WHERE ( mcc = '489-844-9674' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-29T19:36:45+08:00 ] 127.0.0.1 /Ads/Index/top?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-29T19:36:45+08:00 ] 127.0.0.1 /Ads/Index/daily?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:36:45+08:00 ] 127.0.0.1 /Ads/Index/top?cid=1448292719&d1=2016-10-01&d2=2016-11-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:36:45+08:00 ] 127.0.0.1 /Ads/Index/geo?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:36:45+08:00 ] 127.0.0.1 /Ads/Index/blance?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ads_budget` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `ads_budget` WHERE ( cid = '1448292719' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+NOTIC: [2] Division by zero G:\wamp\www\kfpc\Application\Ads\Controller\IndexController.class.php 第 547 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:36:45+08:00 ] 127.0.0.1 /Ads/Index/keywords?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-29T19:36:45+08:00 ] 127.0.0.1 /Ads/Index/campaign?cid=1448292719&d1=2016-11-01&d2=2016-12-01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite G:\wamp\www\kfpc\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
